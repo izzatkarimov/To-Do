@@ -2,10 +2,16 @@
 
 To Do List With User Authentication
 
-Demo:
+## Screenshots
 
-![Screenshot 2024-01-09 at 11 59 50 AM](https://github.com/izzatkarimov/To-Do/assets/108251704/d06c861b-c611-47cf-bf79-61b2030947ec)
+Login Page:
+
+![Screenshot 2024-01-09 at 11 59 15 AM](https://github.com/izzatkarimov/To-Do/assets/108251704/eb2ea3ac-f00c-4e54-b26a-ca72c3f16a4a)
+
+Home Page:
 
 ![Screenshot 2024-01-09 at 11 59 23 AM](https://github.com/izzatkarimov/To-Do/assets/108251704/bc30213f-933a-4bd0-8dd0-544281b2b01e)
 
-![Screenshot 2024-01-09 at 11 59 15 AM](https://github.com/izzatkarimov/To-Do/assets/108251704/eb2ea3ac-f00c-4e54-b26a-ca72c3f16a4a)
+Adding a Task:
+
+![Screenshot 2024-01-09 at 11 59 50 AM](https://github.com/izzatkarimov/To-Do/assets/108251704/d06c861b-c611-47cf-bf79-61b2030947ec)
